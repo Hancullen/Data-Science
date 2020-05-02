@@ -1,5 +1,7 @@
 # Data-Science
 
-Guided project from Dataquest.io
+### Projects from different online platforms 
 
-- [1st project:](https://github.com/Hancullen/Data-Science/blob/master/Profitable_Apps/Profitable_Apps.ipynb) 
+- Dataquest Project: [Profitable Apps](https://github.com/Hancullen/Data-Science/blob/master/Profitable_Apps/Profitable_Apps.ipynb) 
+- Udacity: [Bike Share]()
+
